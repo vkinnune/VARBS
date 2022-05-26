@@ -1,4 +1,4 @@
-# Luke's Auto-Rice Bootstrapping Scripts (LARBS)
+# Valtteri's Auto-Rice Bootstrapping Scripts (Forked from LARBS)
 
 ## Installation:
 
